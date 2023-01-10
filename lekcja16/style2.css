@@ -1,0 +1,38 @@
+body
+{
+    background-color: navy;
+    color: #f00;
+    font-family: Verdana;
+}
+
+.b1
+{
+    background-color: #0ff;
+    font-family:'Segoe UI';
+    border: 5px solid #0f0;
+    width: 900px;
+    font-size: 14pt;
+    padding: 10px;
+    border-top: 5px solid #ff0;
+    border-bottom: 5px solid #ff0;
+}
+.b2
+{
+    background-color: #0ff;
+    font-family:'Segoe UI';
+    border: 5px solid #0f0;
+    width: 900px;
+    font-size: 12pt;
+    padding: 15px;
+    border-top: 10px solid #ff0;
+    border-bottom: 10px solid #ff0;
+}
+.b3
+{
+    background-color: #0ff;
+    font-family:'Segoe UI';
+    border: 20px solid #ff0;
+    width: 900px;
+    font-size: 10pt;
+    padding: 20px;
+}

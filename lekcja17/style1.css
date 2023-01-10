@@ -1,0 +1,39 @@
+body
+{
+    background-color: #000033;
+}
+h3
+{
+    color:  rgb(102, 255, 51);
+    text-shadow: 3px 2px red ;
+}
+p
+{
+    color: yellow;
+    font-size: 11pt;
+    text-align: justify;
+}
+.p1
+{
+    background-color: #33001a;
+    text-decoration: underline;
+}
+.p5
+{
+    background-color: #33001a;
+    text-decoration: underline;
+}
+.p2
+{
+    margin-left: 50px;
+}
+.p3
+{
+    margin-left: 50px;
+    line-height: 1,5;
+    letter-spacing: 3px;
+}
+.p4
+{
+    margin-left: 50px;
+}

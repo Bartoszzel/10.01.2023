@@ -1,0 +1,42 @@
+body
+{
+    background-color: white;
+}
+
+.jeden
+{
+    width: 70%;
+    background-color: yellow;
+    border-top: 5px red solid;
+    margin: 10px;
+    padding: 20px;
+}
+
+.dwa
+{
+    width: 70%;
+    background-image: url(tlo.png);
+    border-top: 5px red solid;
+    margin: 10px;
+    padding: 20px 40px 20px 40px;
+    border-right: solid red 5px;
+    border-left: red 5px solid;
+}
+
+.trzy
+{
+    width: 70%;
+    background-color: yellow;
+    border-top: 5px red solid;
+    margin: 10px;
+    padding: 20px;
+}
+
+.cztery
+{
+    width: 70%;
+    background-color: yellow;
+    border-top: 5px red solid;
+    margin: 10px;
+    padding: 20px;
+}

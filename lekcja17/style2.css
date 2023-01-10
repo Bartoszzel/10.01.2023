@@ -1,0 +1,33 @@
+
+td
+{
+    background-color: rgb(255, 255, 230) ;
+}
+.t2
+{
+    width: 100%;
+    height: 80px;
+}
+h2
+{
+    text-align: center;
+}
+.akapit
+{
+    text-align: justify;
+    margin-left: 50px;
+    padding: 10px;
+    border-left: 10px red solid;
+    border-right: red 10px solid;
+}
+.akapit5
+{
+
+    text-align: justify;
+    margin-left: 50px;
+    padding: 10px;
+    border-left: 10px red solid;
+    border-right: red 10px solid;
+    background-image: url(tlo.png);
+    color: red;
+}
